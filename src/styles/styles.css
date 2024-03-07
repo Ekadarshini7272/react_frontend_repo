@@ -1,0 +1,23 @@
+.main-container{
+    background-color: #f2f2f2;
+.component-card{
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1em;
+    height: 22em;
+    margin-bottom: 5em;
+    .card-btn{
+        background-color: #000;
+        color: #fff;
+        font-weight: 700;
+        width: 15em;
+        height: 3em;
+        border-radius: 1em;
+        border: none;
+        text-align: center;
+    }
+}
+}
+  .form-label {
+    font-weight: bold;
+  }
